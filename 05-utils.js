@@ -1,4 +1,3 @@
-
 const sayHi = (name) => {
   console.log(`Greetings ${name}`);
 }
